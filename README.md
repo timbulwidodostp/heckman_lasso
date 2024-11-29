@@ -1,6 +1,8 @@
 # heckman_lasso
 Adaptive post-Lasso Heckman regression Use heckman_lasso With STATA 18
 
+https://www.youtube.com/watch?v=jKYdxNgkN7o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
